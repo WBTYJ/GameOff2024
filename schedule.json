@@ -1,0 +1,22 @@
+[
+	{
+		"Name": "Baker",
+		"Schedule": [
+			{
+				"Time": 1,
+				"Location": "Bakery",
+				"Dialogue": "None"
+			},
+			{
+				"Time": 25,
+				"Location": "Cafe",
+				"Dialogue": "None"
+			},
+			{
+				"Time": 1,
+				"Location": "None",
+				"Dialogue": "Hi"
+			}
+		]
+	}
+]
